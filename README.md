@@ -1,7 +1,11 @@
 # ZKAlertManager
-使用系统UIAlertController封装一个可自定义的弹窗管理器
+使用系统UIAlertController封装一个可自定义的弹窗管理器  
 
 标题及内容可以传入富文本展示
+
+不需要富文本的话直接传入string即可
+
+可修改按钮文字及颜色
 
 如果只想要一个按钮，按钮的text传空字符串或nil即可
 
